@@ -1,7 +1,3 @@
-Absolutely! Here’s a **detailed documentation** explaining each feature of your security scanner, including its **purpose, usage, and example code snippets**.
-
----
-
 # **Advanced Network Security Scanner – Documentation**
 
 ### **Version 1.0 – Feature Breakdown & Usage Guide**
